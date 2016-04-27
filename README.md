@@ -1,20 +1,14 @@
-### Ollert
-
-[![Build Status](https://travis-ci.org/sep/ollert.svg?branch=master)](https://travis-ci.org/sep/ollert)
+### Trello Dashboard
 
 
-* Author: Larry Price <larry@larry-price.com>
-* Company: Software Engineering Professionals, Inc.
-* Website: [ollertapp.com](https://ollertapp.com)
-* License: [GNU Affero GPL v3.0](LICENSE)
 
 #### Description
 
-Ollert is a data analysis tool for Trello.
+data analysis tool for Trello.
 
 #### Browser Support
 
-Since Ollert depends entirely on Trello for users, Ollert will support only browsers supported by Trello. [Trello officially supports](//help.trello.com/customer/portal/articles/940690) the following browsers:
+This will support only browsers supported by Trello. [Trello officially supports](//help.trello.com/customer/portal/articles/940690) the following browsers:
 
 * Chrome - Current stable release
 * Safari - Version 6.0 or higher
